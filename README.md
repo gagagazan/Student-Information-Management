@@ -1,4 +1,6 @@
 # Student-Information-Management
+本软件使用Apache License 2.0开源协议。
+
 这是一个学生信息管理系统，是4个非计算机专业C语言初学者的课程设计成果
 包含有管理员端、学生端的一些功能
 
